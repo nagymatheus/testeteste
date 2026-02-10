@@ -1,7 +1,7 @@
-# bradge
-aprendendo sobre pr
+# Bradge
+Aprendendo sobre PR (Pull Request)
 
 ## Conteudo da aula
-- git branch
-- git comands
+- Git Branch
+- Git Comands
 
