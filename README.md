@@ -1,7 +1,7 @@
 # bradge
 aprendendo sobre pr
 
-##conteudo da aula
+## Conteudo da aula
 - git branch
 - git comands
 
