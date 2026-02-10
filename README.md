@@ -2,6 +2,6 @@
 aprendendo sobre pr
 
 ##conteudo da aula
--git branch
--git comands
+- git branch
+- git comands
 
